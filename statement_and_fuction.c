@@ -2,14 +2,14 @@
 
 // Function 1
 void my_funtion_one(){
-    printf("a is smaller/n");
+    printf("a is smaller");
 }
 
 //Function 2
 
 void my_function_two(){
 
-    printf("b is bigger\n");
+    printf("b is bigger");
 }
 
 
@@ -18,9 +18,9 @@ int main(){
     int b = 2;
     if (a>b){
         my_funtion_one();
-        
+    }   
     return 0;
-    }
+    
         
     
 
